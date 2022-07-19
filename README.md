@@ -13,4 +13,4 @@ make deps
 make test
 ```
 
-to quiv the virtual env type `deactivate`
+to quit the virtual env type `deactivate`
