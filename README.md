@@ -12,3 +12,5 @@ source venv/bin/activate
 make deps
 make test
 ```
+
+to quiv the virtual env type `deactivate`
